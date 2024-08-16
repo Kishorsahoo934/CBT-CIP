@@ -1,1 +1,1 @@
-# Library catlog system and BankY projext
+# Library catlog system and BankY project
